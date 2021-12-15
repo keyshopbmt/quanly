@@ -249,6 +249,7 @@
   "member activated": "Đã kích hoạt",
   "member added": "Đã thêm thành viên",
   "member deactivated": "Đã hủy kích hoạt",
+  "member invitation message": "Xác nhận mời tài khoản tham gia vào nơi làm việc.<br>{{username}}<br>{{email}}<br>{{fullname}}",
   "member removed": "Đã xóa thành viên",
   "member": "Thành viên",
   "min stock": "Số lượng cần tồn kho",

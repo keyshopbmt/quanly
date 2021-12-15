@@ -249,6 +249,7 @@
   "member activated": "Member activated",
   "member added": "Member added",
   "member deactivated": "Member deactivated",
+  "member invitation message": "Send invitation to account.<br>{{username}}<br>{{email}}<br>{{fullname}}",
   "member removed": "Member removed",
   "member": "Member",
   "min stock": "Min stock",
