@@ -224,6 +224,8 @@
   "info": "Thông tin",
   "inprogress": "Đang làm",
   "internal transfer": "Chuyển kho nội bộ",
+  "internal transfer import": "Nhập kho nội bộ",
+  "internal transfer export": "Xuất kho nội bộ",
   "invalid email": "Email không hợp lệ",
   "invalid format": "Sai định dạng",
   "invalid phone": "Số điện thoại không hợp lệ",

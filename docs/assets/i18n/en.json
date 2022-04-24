@@ -224,6 +224,8 @@
   "info": "Info",
   "inprogress": "Inprogress",
   "internal transfer": "Internal transfer",
+  "internal transfer import": "Internal transfer import",
+  "internal transfer export": "Internal transfer export",
   "invalid email": "Invalid email",
   "invalid format": "Invalid format",
   "invalid phone": "Invalid phone",
