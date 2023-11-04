@@ -440,7 +440,6 @@
   "total task": "Total value from tasks",
   "total": "Total",
   "type": "Type",
-  "undisplayed": "Undisplayed",
   "unit": "Unit",
   "unit acronym": "Unit",
   "unlock edit confirmation text": "Unlock edit {{value}}",
@@ -463,5 +462,6 @@
   "workplace info": "Workplace info",
   "workplace name example": "Workplace name example",
   "workplace": "Workplace",
-  "you are deactivated from this workplace": "You are deactivated from this workplace"
+  "you are deactivated from this workplace": "You are deactivated from this workplace",
+  "you have not set username": "You have not set username"
 }

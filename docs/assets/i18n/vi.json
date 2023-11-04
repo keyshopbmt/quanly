@@ -441,7 +441,6 @@
   "total task": "Tổng giá trị công việc",
   "total": "Tổng",
   "type": "Loại",
-  "undisplayed": "Không trưng bày",
   "unit": "Đơn vị tính",
   "unit acronym": "ĐVT",
   "unlock edit confirmation text": "Bạn có chắc chắn muốn mở khóa chỉnh sửa {{value}} đơn đã chọn?",
@@ -464,5 +463,6 @@
   "workplace info": "Thông tin nơi làm việc",
   "workplace name example": "Cửa hàng A",
   "workplace": "Cửa hàng",
-  "you are deactivated from this workplace": "Tài khoản của bạn đã bị hủy kích hoạt đối với của hàng này."
+  "you are deactivated from this workplace": "Tài khoản của bạn đã bị hủy kích hoạt đối với của hàng này.",
+  "you have not set username": "Chưa đặt tên tài khoản"
 }
