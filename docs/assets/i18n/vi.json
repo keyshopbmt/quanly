@@ -23,6 +23,12 @@
     "11": "Tháng 11",
     "12": "Tháng 12"
   },
+  "paginator": {
+    "of": " | ",
+    "items_per_page": "Số lượng mỗi trang: ",
+    "next_page": "Trang tiếp theo",
+    "previous_page": "Trang trước"
+  },
   "404 not found": "404 Không tồn tại",
   "a few": "vài",
   "accept": "Chấp nhận",
@@ -246,6 +252,7 @@
   "invitation was sent": "Lời mời đã được gửi đi",
   "invite member": "Mời tham gia",
   "item acronym": "SP",
+  "items per page": "Số sản phẩm mỗi trang",
   "joined date": "Ngày tham gia",
   "joined recently": "Tham gia gần đây",
   "keywords explain": "Từ khóa dùng để tìm kiếm (barcode, số serial)",

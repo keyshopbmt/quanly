@@ -23,6 +23,12 @@
     "11": "November",
     "12": "December"
   },
+  "paginator": {
+    "of": "of",
+    "items_per_page": "Items per page: ",
+    "next_page": "Next page",
+    "previous_page": "Previous page"
+  },
   "404 not found": "404 not found",
   "a few": "a few",
   "accept": "Accept",
