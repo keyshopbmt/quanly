@@ -349,6 +349,7 @@
   "product catalog": "Danh mục sản phẩm",
   "product count acronym": "Số SP",
   "product count": "Số lượng sản phẩm",
+  "product's name": "Tên sản phẩm",
   "product group acronym": "Nhóm SP",
   "product group name": "Tên nhóm sản phẩm",
   "product group": "Nhóm sản phẩm",
@@ -430,7 +431,6 @@
   "stock low": "Dưới định mức",
   "stock status": "Trạng thái tồn kho",
   "stock": "SL tồn",
-  "sorted by": "Sắp xếp theo",
   "submit": "Gửi",
   "subtotal": "Tổng",
   "sunday": "Chủ Nhật",
@@ -514,8 +514,7 @@
   "you are deactivated from this workplace": "Tài khoản của bạn đã bị hủy kích hoạt đối với của hàng này.",
   "your cart is empty": "Giỏ hàng của bạn còn trống",
   "you have not set username": "Chưa đặt tên tài khoản",
-  "buy and sell on 4ez": "Mua và bán trên 4ez",
-  "you have not set username": "Chưa đặt tên tài khoản" ,
+  "buy and sell on 4eaz": "Mua và bán trên 4eaz",
   "you can search by store name":"Bạn có thể tìm theo tên cửa hàng",
   "you can search by store name, order ID, or product name": "Bạn có thể tìm theo tên cửa hàng, ID đơn hàng, hoặc tên sản phẩm"
 }
